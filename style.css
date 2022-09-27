@@ -1,4 +1,4 @@
-/* Generated on: Tue Sep 27 2022 13:02:00 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Tue Sep 27 2022 15:32:13 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -2922,19 +2922,27 @@ li {
 }
 
 .flowout-author-image.author-1 {
-    background-image: url("https://uploads-ssl.webflow.com/632f263678283128df18c09d/632f2636782831808718c0b3_profilePic1.jpg");
+    background-image: url("https://uploads-ssl.webflow.com/632f263678283128df18c09d/6331d56e2f0177153221241e_dan-dammateo.jpg");
 }
 
 .flowout-author-image.author-2 {
-    background-image: url("https://uploads-ssl.webflow.com/632f263678283128df18c09d/632f26367828310e4618c0b2_profilePic2.jpg");
+    background-image: url("https://uploads-ssl.webflow.com/632f263678283128df18c09d/6331d56e2c1cff5cdaf2da5f_mary-reynolds.jpg");
+}
+
+.flowout-author-image.author-3 {
+    background-image: url("https://uploads-ssl.webflow.com/632f263678283128df18c09d/6331d56ebbe8167de5bde84b_jerald-perry.jpg");
 }
 
 .flowout-author-image.author-4 {
-    background-image: url("https://uploads-ssl.webflow.com/632f263678283128df18c09d/632f2636782831808718c0b3_profilePic1.jpg");
+    background-image: url("https://uploads-ssl.webflow.com/632f263678283128df18c09d/6331d56e180e9d38754b1bca_hector-cornell.jpg");
 }
 
 .flowout-author-image.author-5 {
-    background-image: url("https://uploads-ssl.webflow.com/632f263678283128df18c09d/632f26367828310e4618c0b2_profilePic2.jpg");
+    background-image: url("https://uploads-ssl.webflow.com/632f263678283128df18c09d/6331d56e6652e77ebf6e0e37_lupe-williams.jpg");
+}
+
+.flowout-author-image.author-6 {
+    background-image: url("https://uploads-ssl.webflow.com/632f263678283128df18c09d/6331d56ecfc14f513a9e1f40_james-nicolls.jpg");
 }
 
 .flowout-author-role {
@@ -4696,6 +4704,18 @@ li {
         -webkit-align-items: stretch;
         -ms-flex-align: stretch;
         align-items: stretch;
+    }
+
+    .flowout-author-image.author-4 {
+        background-image: url("https://uploads-ssl.webflow.com/632f263678283128df18c09d/6331d56e180e9d38754b1bca_hector-cornell.jpg");
+    }
+
+    .flowout-author-image.author-5 {
+        background-image: url("https://uploads-ssl.webflow.com/632f263678283128df18c09d/6331d56e6652e77ebf6e0e37_lupe-williams.jpg");
+    }
+
+    .flowout-author-image.author-6 {
+        background-image: url("https://uploads-ssl.webflow.com/632f263678283128df18c09d/6331d56ecfc14f513a9e1f40_james-nicolls.jpg");
     }
 
     .flowout-slide {
